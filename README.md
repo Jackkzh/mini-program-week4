@@ -1,5 +1,5 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Rust program - Read JSON file
+This is a rust program that is able to read a JSON file.
 
 ## References
 
